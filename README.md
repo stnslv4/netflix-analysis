@@ -61,14 +61,13 @@ EDA аналіз датасету Netflix за допомогою Pandas
 ## 📈 Графіки
 
 ### Кількість контенту по роках
-![yearly](yearly_content.png)
+![yearly](к-сть%20по%20роках.png)
 
 ### Топ-8 країн
-![countries](top_countries.png)
+![countries](Топ%20країн.png)
 
 ### Топ-10 жанрів
-![genres](top_genres.png)
-
+![genres](Топ%20жанрів.png)
 ---
 
 ## 🚀 Як запустити
